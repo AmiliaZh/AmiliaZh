@@ -1,9 +1,7 @@
-## Hi there 👋
+# Hi
+## Brief About me
+**Strategic Consultant**
 
-<!--
-**AmiliaZh/AmiliaZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on supporting CTO with fundraising, market entry and traction gain
 - 🌱 I’m currently learning coding, python, basic web development 
